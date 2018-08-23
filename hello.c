@@ -1,5 +1,5 @@
 /**
- * Author: Artiom Dolghi and Sophia Revesz
+ * Author: Susan Cao and Sophia Revesz
  * Date: 2018/21/08
  *
  * A simple hello world program in C
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Artiom Dolghi and Sophia Revesz\n");
+  printf("Susan Cao and Sophia Revesz\n");
 
   return 0;
 }
